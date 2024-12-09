@@ -94,7 +94,7 @@ Hurray! You successfully made a contribution!
 <table>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/64949957" width="150px" alt="profile" />
+      <img [src="https://avatars.githubusercontent.com/u/64949957" width="150px" alt="profile](https://github.com/diwanshu-lab/web-ui-clones/blob/main/Instagram/public/assets/images/hero.png?raw=true)" />
       <br/>
       Diwanshu Yadav
       <br/>
