@@ -94,7 +94,7 @@ Hurray! You successfully made a contribution!
 <table>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/64949957" width="150px" alt="profile" />
+      <img [src="![hero](https://github.com/user-attachments/assets/dc96048d-bbd4-434f-96e2-4c03c799207b)" />
       <br/>
       Diwanshu Yadav
       <br/>
